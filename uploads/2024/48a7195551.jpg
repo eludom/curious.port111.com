@@ -1,0 +1,7 @@
+@Manton, I'm trying to import fediverse .csv:
+
+  Account address,Show boosts,Notify on new posts,Languages
+  MissingThePt@mastodon.social,false,false,""
+  manton@manton.org,false,false,""
+
+New entries not showing up, even after waiting.  Clues?
