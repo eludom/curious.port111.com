@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://eludom.micro.blog/2026/01/11/is-there-a-search-engine.html",
+				
+				"content_html": "<p>Is there a search engine that only returns sites that allow connections from #tor or #vpn connections?</p>\n<p>I&rsquo;m increasingly seeing VPNs blocked.   I&rsquo;d like to deal only with organizations that respect privacy.</p>\n",
+				"content_text": "Is there a search engine that only returns sites that allow connections from #tor or #vpn connections?\n\nI'm increasingly seeing VPNs blocked.   I'd like to deal only with organizations that respect privacy.\n",
+				"date_published": "2026-01-11T09:51:59-05:00",
+				"url": "https://curious.port111.com/2026/01/11/is-there-a-search-engine.html"
+			},
+			{
 				"id": "http://eludom.micro.blog/2025/12/31/thanks-to-all-who-contributed.html",
 				
 				"content_html": "<p>Thanks to all who contributed to this months #emacs carnival:\n<a href=\"https://curious.port111.com/2025/11/01/emacs-carnival-december-the-people.html\">curious.port111.com/2025/11/0&hellip;</a></p>\n<p>It was a privilege to host and to apparently inspire people to share their &ldquo;People of emacs&rdquo;.   I think my hunch was right: emacs is very social.</p>\n",
