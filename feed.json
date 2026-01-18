@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://eludom.micro.blog/2026/01/18/the-podcast-circuit-seems-to.html",
+				
+				"content_html": "<p>The #podcast circuit seems to have heavy representation of of the &ldquo;I just wrote a book on &hellip;&rdquo; crowd.  What happens once #ai is writing most of our books?</p>\n",
+				"content_text": "The #podcast circuit seems to have heavy representation of of the \"I just wrote a book on ...\" crowd.  What happens once #ai is writing most of our books?\n",
+				"date_published": "2026-01-18T06:20:01-05:00",
+				"url": "https://curious.port111.com/2026/01/18/the-podcast-circuit-seems-to.html"
+			},
+			{
 				"id": "http://eludom.micro.blog/2026/01/11/is-there-a-search-engine.html",
 				
 				"content_html": "<p>Is there a search engine that only returns sites that allow connections from #tor or #vpn connections?</p>\n<p>I&rsquo;m increasingly seeing VPNs blocked.   I&rsquo;d like to deal only with organizations that respect privacy.</p>\n",
