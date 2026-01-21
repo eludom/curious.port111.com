@@ -24,13 +24,107 @@
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://curious.port111.com/2026/01/19/this-year-ill-emacscarnival.html">This Year I&#39;ll... [#emacscarnival 1/26]</a></h1>
+			<h1><a href="https://curious.port111.com/2026/01/21/thinking-about-microblog-vs-mastodon.html">&#34;thinking&#34; about micro.blog vs mastodon </a></h1>
 		
 
-		<a href="https://curious.port111.com/2026/01/19/this-year-ill-emacscarnival.html" class="u-url"><time class="dt-published" datetime="2026-01-19 11:44:03 -0500">Jan 19, 2026</time></a>
+		<a href="https://curious.port111.com/2026/01/21/thinking-about-microblog-vs-mastodon.html" class="u-url"><time class="dt-published" datetime="2026-01-21 09:10:21 -0500">Jan 21, 2026</time></a>
 
 		<div class="e-content">
-			 <p># Table of Contents1.  <a href="#org741842b">What will you do differently in emacs?</a>    1.  <a href="#orgba1dc53">More sharing and big backlog of projects</a>    2.  <a href="#org0d45a82">What&rsquo;s old is new</a>2.  <a href="#orgcc87c4a">What are you excited about with emacs?</a>    1.  <a href="#orgef5e65e">Visual Line mode</a>    2.  <a href="#org2ffa39f">Denote - a new workflow</a>    3.  <a href="#org5855e97">GPTel - AI all the things</a>    4.  <a href="#org5804840">Claude Code - AI agent all the things</a>    5.  <a href="#org2be1914">org-social - one org mode to communicate with them all</a>3.  <a href="#org85842e0">large projects with emacs?</a>4.  <a href="#orge173b2f">Emacs, the verb</a>This is my emacs carnival blog post for January 2026responding to Christian Tietze&rsquo;s prompt &ldquo;<a href="https://christiantietze.de/posts/2026/01/emacs-carnival-2026-01-this-year-i-will/">This year I&rsquo;ll…</a>&rdquo;<!-- raw HTML omitted --><!-- raw HTML omitted --># What will you do differently in emacs?<!-- raw HTML omitted --><!-- raw HTML omitted -->## More sharing and big backlog of projects&gt; What will you do differently in Emacs this year? Or will you just get started? Why?So many things TODO. Org mode is soooo good at making huge TODO lists. This year I&rsquo;m hoping to share more of my tinkering in public in git, blogs, my config maybe an emacs-conf talk.A number of the projects are not strictly emacs, but enablers for further sharing: I plan on resurrecting my own git server using one of my own domains. It&rsquo;s likely going to turn back into a <a href="https://forgejo.org/">Forgejo git server</a>. For a while now I&rsquo;ve needed to get more comfortable with my blogging platform, micro.blog (<a href="https://micro.blog/eludom">my current blog is at https://micro.blog/eludom</a>). Micro.blog replaced the hugo blog I was producing (with <a href="https://ox-hugo.scripter.co/">ox-hugo</a>) which is still up at <a href="http://curious.galthub.com/">http://curious.galthub.com/</a>.  Micro.blog is hugo on the back end.I missed a shout-out to <a href="https://micro.blog/jtr">JTR</a> in last month&rsquo;s &ldquo;<a href="https://curious.port111.com/2025/11/01/emacs-carnival-december-the-people.html">The People Of Emacs</a>&rdquo;carnival.  He turned me on to hugo, then micro.blog and always seems to be just ahead of me on interesting emacs/org projects.<!-- raw HTML omitted --><!-- raw HTML omitted -->## What&rsquo;s old is newI have digital flotsam and jetsam that goes back decades, including my old hand-edited HTML index page (<a href="http://port111.com/george/">http://port111.com/george/</a>) (yes, I use HTML mode).  A lot of this stuff needs to be collected.  Emacs will be central to that task.The oldest file for which I have an mtime is <a href="http://port111.com/george/.emacs.uu">.emacs.uu</a> my emacs config file from July 12, 2001 when I was working at UUNET.There&rsquo;s a TOPS 20 dumper tape in garage that may have emacs (TECO) stuff from the 80s if anybody&rsquo;s got a TU-77 handy.Change (and config-twiddling) seem to be the only constants.<em>plus ça change, plus c&rsquo;est la même chose</em>.<!-- raw HTML omitted --><!-- raw HTML omitted --># What are you excited about with emacs?&gt; What are you excited about to explore and tinker with? What do you want to perfect?<!-- raw HTML omitted --><!-- raw HTML omitted -->## Visual Line modeLet&rsquo;s start small.  This week I switched to using the visual-fill-column mode.  Turns out we&rsquo;re not in the era of VT100s anymore.   &ldquo;Terminals&rdquo; have more than 80 columns and a lot of people, for some strange reason, don&rsquo;t break their lines at 80 characters.  Up to now, I had stubbornly been setting a fill-column and using fill-paragraph a lot.   That&rsquo;s over:    (remove-hook &lsquo;text-mode-hook #&lsquo;turn-on-auto-fill)        (require &lsquo;visual-fill-column)        ;; Add visual-line-mode and visual-fill-column-mode to text-mode-hook    (add-hook &lsquo;text-mode-hook (lambda ()                                (visual-line-mode 1)                                (visual-fill-column-mode 1)                                (visual-fill-column-toggle-center-text)))        ;; Set the desired wrap width    (setq-default visual-fill-column-width 120) ;; because 80 character terminals were a thing?<!-- raw HTML omitted --><!-- raw HTML omitted -->## Denote - a new workflowI&rsquo;m moving into <a href="https://github.com/protesilaos/denote">Denote</a>. I&rsquo;m not sure what the ?final? workflow will be but I know it&rsquo;s going to be better.Up until now I&rsquo;ve been doing the traditional directory structure thing.  Blogs here, finance stuff there, travel planning someplace else, etc.  And then I have to remember where it all is.The denote workflow will be some form of files mostly in one directory:    20260113T084007&ndash;experiments-using-vpns-for-daily-web-access__tech_writing.org    20260113T115229&ndash;debug-and-fix-garage-door__house.org    20251217T081925&ndash;jones-family-christmas-letter-2025__public_writing.orgThe exact set of tags is a work in progress.  The current listincludes: <em>emacs,tech,writing,public,money,planning,blogging,travel,retirement,info,house,fitness,family</em>The key will be to find a minimal, effective, memorable set of tags. I&rsquo;m trying to follow <a href="https://karl-voit.at/">Karl Voit</a>&rsquo;s guidance on <a href="https://karl-voit.at/2022/01/29/How-to-Use-Tags/">How to Use Tags</a>. Karl is another person who should have gotten a shout out in my <a href="https://curious.port111.com/2025/11/01/emacs-carnival-december-the-people.html">People of Emacs</a> emacs carnival entry last month.I also have an increasing number of files that are &ldquo;conversations&rdquo; with AI (ChatGPTto date), more on AI below.  Files that start life as conversations with AIare generally landing in ~/notes/ai/.I&rsquo;m currently pushing anything I tag _public to <a href="https://codeberg.org/eludom/home.public.notes/src/branch/master/home/public/notes">https://codeberg.org/eludom/home.public.notes/src/branch/master/home/public/notes</a>They are likely to move to git.galthub.com once I stand that back up.<!-- raw HTML omitted --><!-- raw HTML omitted -->## GPTel - AI all the thingsI&rsquo;ve been using ChatGPT in emacs buffers with <a href="https://github.com/karthink/gptel">gptel</a> to ask questions and keep a log of answers.I just type the question in the buffer/file and send it off.I have a capture template that captures queries in hierarchically structured date tree.The capture template looks like:    (setq org-capture-templates          &lsquo;(            ;; gptel query            ;;  [Hit ^X-G (gptel-send) to run the query then ^C-^C (org-capture-finalize) to save]            (&ldquo;g&rdquo; &ldquo;GPTel Query&rdquo; entry (file+datetree &ldquo;~/tmp/gpt-captures.org&rdquo;)    &ldquo;* GPTel Query\n  %U\n:Query: %^{Enter your query}\n\n%?&rdquo; :jump-to-capture t)                )          )Configure <code>~/tmp/gpt-captures.org</code> to where you want the captures/queries to land.Running the buffer and providing the query results in a bufferthat looks like    **** GPTel Query      [2026-01-17 Sat 17:07]    :Query: what does :jump-to-capture do in an org capture templateAnd after running query (<code>^X-G</code> with my bindings, gptel-send) andsaving it (<code>^c^c, org-capture-finalize</code>)    * 2026    ** 2026-01 January    *** 2026-01-17 Saturday    **** GPTel Query      [2026-01-17 Sat 17:07]    :Query: what does :jump-to-capture do in an org capture template        In Org mode, the =:jump-to-capture= option in a capture template is used to jump to the newly created capture&hellip;but I&rsquo;m moving to mostly capturing things as denote notes in notes/ai/ instead. Noneed for AI/GPT specific org-capture template (above). I&rsquo;m finding this segregatesconversations better, maintains context, allows selective sharing (via _public tagsand pushing to git).The workflow there is to just do a normal denote capture,type the query in the buffer and do ^x-G to run the query.I often iterate/refine the query/have &ldquo;conversations&rdquo; in thesame buffer. <!-- raw HTML omitted --><!-- raw HTML omitted -->## Claude Code - AI agent all the thingsI&rsquo;m just starting to explore Claude Code/agentic AI. Yet another paradigm shift. The AIs (or some portion of them) run on your system and do stuff with your things.I got started with Claude by feeding a twitter thread to ChatGPT and asking how I could replicate some results:<a href="https://codeberg.org/eludom/home.public.notes/src/branch/master/home/public/notes/ai/20260114T052256--claud-workflow__public_tech.org">https://codeberg.org/eludom/home.public.notes/src/branch/master/home/public/notes/ai/20260114T052256--claud-workflow__public_tech.org</a>I&rsquo;ve run the shell (installed claude, type &ldquo;claude&rdquo; to start it) and fed it some of my old bash scripts for cleanup and restructuring, no problem. Proofreading text files, no problem. I installed <a href="https://github.com/rohunvora/just-fucking-cancel/tree/main">this claude skill</a>, fed it .csv files of credit card transactions (no credentials) and let it find things that could be canceled to save money.  You need a $20/month account.   I canceled my OpenAI/ChatGPT paid account ($20) because I&rsquo;m mostly using that via the API (gptel) anyhow.I&rsquo;ve been using the <a href="https://github.com/dave1010/clipea">clipea</a> cli tool for a bit to just generate &ldquo;Do What I mean&rdquo; command lines:    gmj@forum ~ $ ?? what package owns /usr/bin/brave I am on arch linux    📎🟢$ pacman -Qo /usr/bin/brave    Execute? [y/N] y    /usr/bin/brave is owned by brave-bin 1:1.84.132-1Claude is going to take that about 4 orders of magnitude further, allowing accessto as much (or as little) of your local system (files, commands) as you feel comfortablewith. Once I learn more, I will probably integrate locally with my mail (offlineimap)and rss feeds to do filtering, scoring, summary reports, etc.For now, I&rsquo;m just using the default command line/terminal-based Claude AI, but asI type a new version of <a href="https://github.com/xenodium/agent-shell">agent-shell</a> dropped on MELPA.  Emacs integration is probably in the near future.There&rsquo;s learning to do.<!-- raw HTML omitted --><!-- raw HTML omitted -->## org-social - one org mode to communicate with them allAnd then there&rsquo;s <a href="https://github.com/tanrax/org-social">org-social</a>.  The social network where all your stuff stays on your computer (your posts, your &ldquo;likes&rdquo;, your follow list), everything is formatted in org-mode, there is an emacs client, or if you don&rsquo;t like that you can just curl all your friends&rsquo; feeds, &lsquo;cause theirs are all just a single publicly accessible text files too.If you&rsquo;ve not tried it, do so.   Emacs people need niche places to congregate.   This is a ground-up emacs/org-native social network.  Check it out.  Join.  Use it.<!-- raw HTML omitted --><!-- raw HTML omitted --># large projects with emacs?    Are there any large projects in front of you that you’ll emacs with confidence?I&rsquo;m pretty sure everything listed above will count as several large projects.   Stay tuned.And much as I dislike project managment and Kanban boards, I may ask one of the AIs to help me with my ever-growing and ever-too-big-to-accomplish TODO lists.  Maybe I&rsquo;ll figure out which ones are more important and get a few of them done.  These are exciting times.<!-- raw HTML omitted --><!-- raw HTML omitted --># Emacs, the verbAnd Christian, I&rsquo;m with you on using emacs as a verb:&gt; To emacs, or not to emacs, that is the question.    <em>Emacso, -are, -avi, -atus</em> (verb, 1st conjugation)        emacso, emacsas, emacsat, emacsamus, emacsatis, emacsant         - Cotidie, cum discipulis meis, emacso ad software melius discendum.         /(Every day, with my students, I emacs to learn better software.)/&ldquo;All your emacsifications are belong to us&rdquo;</p>
+			 <p>Yes, this was spit out by AI&hellip;but I think it&rsquo;s useful.  I&rsquo;m at a place where I think I might be bloging more and I&rsquo;m tring to understand the appropriate plaforms and ways of thinking.  I should probably read more of [@manton](<a href="https://micro.blog/manton's">micro.blog/manton&rsquo;s</a> writings?  But this seems like a good start.</p>
+<h2 id="summary">Summary</h2>
+<p>Here’s a compact, practical cheat-sheet for unlearning Fosstodon habits and leaning fully into Micro.blog—without overthinking it.</p>
+<h3 id="1-posting-heuristics-what-goes-where">1. Posting heuristics (what goes where)</h3>
+<ul>
+<li>Post to Micro.blog if:
+<ul>
+<li>You’d like to reread it later</li>
+<li>It captures a thought, observation, or link worth keeping</li>
+<li>You’d be fine if no one replied</li>
+</ul>
+</li>
+<li>Post to Fosstodon if:
+<ul>
+<li>You want real-time back-and-forth</li>
+<li>You’re reacting, joking, venting, or signal-boosting</li>
+<li>The value is mostly <em>now</em></li>
+</ul>
+</li>
+</ul>
+<p><strong>Rule of thumb:</strong></p>
+<ul>
+<li>Micro.blog = archive</li>
+<li>Fosstodon = chat</li>
+</ul>
+<h3 id="2-microblog-native-cadence">2. Micro.blog-native cadence</h3>
+<ul>
+<li>Short notes are fine</li>
+<li>1–3 posts per day is already “active”</li>
+<li>Silence is not failure</li>
+<li>Let posts stand alone; don’t chase follow-ups</li>
+</ul>
+<p><strong>Think:</strong></p>
+<ul>
+<li>Write when there’s something to add</li>
+<li>Stop when there isn’t</li>
+</ul>
+<h3 id="3-what-to-stop-doing-mastodon-unlearning">3. What to stop doing (Mastodon unlearning)</h3>
+<ul>
+<li>Stop writing for replies</li>
+<li>Stop context-packing for strangers</li>
+<li>Stop monitoring reactions</li>
+<li>Stop “clearing the buffer” with low-value posts</li>
+</ul>
+<p>Micro.blog rewards restraint more than frequency.</p>
+<h3 id="4-when-cross-posting-still-makes-sense">4. When cross-posting still makes sense</h3>
+<ul>
+<li>Cross-post <em>from</em> Micro.blog <em>to</em> Fosstodon when:
+<ul>
+<li>You’re sharing a finished thought</li>
+<li>You want discovery, not discussion</li>
+</ul>
+</li>
+<li>Don’t cross-post:
+<ul>
+<li>In-progress thinking</li>
+<li>Replies or side comments</li>
+<li>Anything you’ll regret being frozen in place</li>
+</ul>
+</li>
+</ul>
+<p>One-way cross-posting preserves intent.</p>
+<h3 id="5-a-single-mental-switch">5. A single mental switch</h3>
+<p>Before posting, ask:<br>
+<strong>“Is this a remark, or a record?”</strong></p>
+<ul>
+<li>Remark → Fosstodon</li>
+<li>Record → Micro.blog</li>
+</ul>
+<p>That question alone does most of the work.</p>
+<h3 id="6-a-closing-calibration">6. A closing calibration</h3>
+<p>Micro.blog works best when you treat it less like a feed and more like a notebook that happens to be public.</p>
+<p>You’re not missing out.<br>
+You’re <em>curating a self over time</em>.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://curious.port111.com/2026/01/19/understanding-companies-that-shape-the.html">Understanding Companies That Shape The World We live In.</a></h1>
+		
+
+		<a href="https://curious.port111.com/2026/01/19/understanding-companies-that-shape-the.html" class="u-url"><time class="dt-published" datetime="2026-01-19 18:25:53 -0500">Jan 19, 2026</time></a>
+
+		<div class="e-content">
+			 <p>My nephew&rsquo;s wife is a CPA and recently turned me on the &ldquo;Acquired&rdquo; podcast:
+<a href="https://www.acquired.fm/">www.acquired.fm</a></p>
+<p>Got four hours to listen to the story of Coca-Cola?  Trader Joes?  Amazon?  If you&rsquo;re driving across the US and back as I just did, you do.   But even if you&rsquo;re not driving for 60 hours, the content is fascinating.  The hosts do a deep dive on successful companies from the history and business perspectives.</p>
+<p>You learn fascinating details: Coke started in the wave of patent-medicine companies
+right after the Civil War. It had cocaine in part to give badly injured Civil War
+vets an an alternative to the &ldquo;Army disease&rdquo;, morphine addiction.  Where did the distinctive bottle shape come from, what was the &ldquo;Pepsi Challenge&rdquo;?, &ldquo;New Coke&rdquo;?, the &ldquo;secret formula&rdquo;?.</p>
+<p>As someone who spent the last 40 years working in tech, a short time at AWS and my last company being a Silicon Valley startup that was then acquired by a bigger player I was fascinated by the stories of the big tech companies: Amazon, Google, etc.   I lived a lot of it and knew some of the players.</p>
+<p>Like it or not, big successful companies shape the world we live in. The podcast is very well done and helps you understand both the history and present state of companies such as Coca-Cola, Trader Joe’s, Google: The AI Company, Google: The Origin of Search, Microsoft, Mars (chocolate), ARM (chips, not chocolate), TSMC (chips, also not chocolate), Duolingo, Meta, etc.</p>
+<p>Find 4 hours. Give it a listen.</p>
 
 		</div>
 	  </div>
