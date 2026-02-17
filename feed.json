@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://eludom.micro.blog/2026/02/16/reading-mail-on-the-command.html",
+				"title": "reading mail on the command line with notmuch and less(1)",
+				"content_html": "<p>I&rsquo;m reading mail on the command line with notmuch and less(1). Its glorious. grep(1) and less(1) are your friends.</p>\n<p>It&rsquo;s incredible how much cruft is in the typical mail message today. 100 lines of spam headers. MIME multi-part stuff. HTML everywhere. Encoded attachments. Long chains of replies copied in every reply.</p>\n<p>But it&rsquo;s text.  No UI.  No mouse.  No graphics.  Just text.</p>\n",
+				"content_text": "I'm reading mail on the command line with notmuch and less(1). Its glorious. grep(1) and less(1) are your friends.\n\nIt's incredible how much cruft is in the typical mail message today. 100 lines of spam headers. MIME multi-part stuff. HTML everywhere. Encoded attachments. Long chains of replies copied in every reply.\n\nBut it's text.  No UI.  No mouse.  No graphics.  Just text.\n\n",
+				"date_published": "2026-02-16T06:24:14-05:00",
+				"url": "https://curious.port111.com/2026/02/16/reading-mail-on-the-command.html",
+				"tags": ["life","geek"]
+			},
+			{
 				"id": "http://eludom.micro.blog/2026/02/14/yesterday-i-was-listening-to.html",
 				
 				"content_html": "<p>Yesterday I was listening to a podcast in the car on the speakers.  Apparently Google Gemini/Assistant/whatever was listening and kept butting in with unhelpful interruptions about what I was listening to (history).  Just give me a frickn MP3 player and go away.</p>\n<p>Need to find a solution.</p>\n",
@@ -320,7 +329,7 @@
 				"id": "http://eludom.micro.blog/2025/11/19/free.html",
 				"title": "Free",
 				"content_html": "<p>This is an excerpt from an entry I wrote for a family newsletter this\nweek.</p>\n<blockquote>\n<p>On the way back from Boston, we visited the Mayflower replica and John\nAlden&rsquo;s<!-- raw HTML omitted --><!-- raw HTML omitted -->1<!-- raw HTML omitted --><!-- raw HTML omitted --> grave. In November, I attended a memorial service at\nSt. Peter&rsquo;s in Philadelphia, the same church George Washington attended while\nthere.  In Philadelphia they have a sculpture honoring the Irish immigrants of the\n1850s … the back side shows famine and grave-digging in Ireland.\nThe front side (of the same sculpture) shows people walking down the gangplank\nto start a new life.   My Jones ancestors came from Wales about the same time.</p>\n<p>I could not help but think of my ancestor, a Hessian soldier who fought for\nthe British in the Revolution. Today, he would be called an illegal immigrant and\na deserter. He jumped ship, moved to Ohio and changed his name.<!-- raw HTML omitted --><!-- raw HTML omitted -->2<!-- raw HTML omitted --><!-- raw HTML omitted --> The name he chose\nwas &ldquo;Free&rdquo;<!-- raw HTML omitted --><!-- raw HTML omitted -->3<!-- raw HTML omitted --><!-- raw HTML omitted -->.</p>\n</blockquote>\n<h1 id=\"footnotes\">Footnotes</h1>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->1<!-- raw HTML omitted --><!-- raw HTML omitted --> We are descended from John Alden and Priscilla Mullens who were\non the Mayflower.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->2<!-- raw HTML omitted --><!-- raw HTML omitted --> In America (maybe not in Britain), this adds up to a proud tradition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->3<!-- raw HTML omitted --><!-- raw HTML omitted --> My grandmother&rsquo;s name was &ldquo;Free&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is an excerpt from an entry I wrote for a family newsletter this\nweek.\n\n> On the way back from Boston, we visited the Mayflower replica and John\n> Alden's<sup><a id=\"fnr.1\" class=\"footref\" href=\"#fn.1\" role=\"doc-backlink\">1</a></sup> grave. In November, I attended a memorial service at\n> St. Peter's in Philadelphia, the same church George Washington attended while\n> there.  In Philadelphia they have a sculpture honoring the Irish immigrants of the\n> 1850s … the back side shows famine and grave-digging in Ireland.\n> The front side (of the same sculpture) shows people walking down the gangplank\n> to start a new life.   My Jones ancestors came from Wales about the same time.\n> \n> I could not help but think of my ancestor, a Hessian soldier who fought for\n> the British in the Revolution. Today, he would be called an illegal immigrant and\n> a deserter. He jumped ship, moved to Ohio and changed his name.<sup><a id=\"fnr.2\" class=\"footref\" href=\"#fn.2\" role=\"doc-backlink\">2</a></sup> The name he chose\n> was \"Free\"<sup><a id=\"fnr.3\" class=\"footref\" href=\"#fn.3\" role=\"doc-backlink\">3</a></sup>.\n\n\n# Footnotes\n\n<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> We are descended from John Alden and Priscilla Mullens who were\non the Mayflower.\n\n<sup><a id=\"fn.2\" href=\"#fnr.2\">2</a></sup> In America (maybe not in Britain), this adds up to a proud tradition.\n\n<sup><a id=\"fn.3\" href=\"#fnr.3\">3</a></sup> My grandmother's name was \"Free\".\n\n\n\n<img src=\"uploads/2025/ship2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "This is an excerpt from an entry I wrote for a family newsletter this\nweek.\n\n> On the way back from Boston, we visited the Mayflower replica and John\n> Alden's<sup><a id=\"fnr.1\" class=\"footref\" href=\"#fn.1\" role=\"doc-backlink\">1</a></sup> grave. In November, I attended a memorial service at\n> St. Peter's in Philadelphia, the same church George Washington attended while\n> there.  In Philadelphia they have a sculpture honoring the Irish immigrants of the\n> 1850s … the back side shows famine and grave-digging in Ireland.\n> The front side (of the same sculpture) shows people walking down the gangplank\n> to start a new life.   My Jones ancestors came from Wales about the same time.\n> \n> I could not help but think of my ancestor, a Hessian soldier who fought for\n> the British in the Revolution. Today, he would be called an illegal immigrant and\n> a deserter. He jumped ship, moved to Ohio and changed his name.<sup><a id=\"fnr.2\" class=\"footref\" href=\"#fn.2\" role=\"doc-backlink\">2</a></sup> The name he chose\n> was \"Free\"<sup><a id=\"fnr.3\" class=\"footref\" href=\"#fn.3\" role=\"doc-backlink\">3</a></sup>.\n\n\n# Footnotes\n\n<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> We are descended from John Alden and Priscilla Mullens who were\non the Mayflower.\n\n<sup><a id=\"fn.2\" href=\"#fnr.2\">2</a></sup> In America (maybe not in Britain), this adds up to a proud tradition.\n\n<sup><a id=\"fn.3\" href=\"#fnr.3\">3</a></sup> My grandmother's name was \"Free\".\n\n\n\n<img src=\"https://curious.port111.com/uploads/2025/ship2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-11-19T06:36:08-05:00",
 				"url": "https://curious.port111.com/2025/11/19/free.html",
 				"tags": ["life","history"]
@@ -416,7 +425,7 @@
 				"id": "http://eludom.micro.blog/2025/08/12/i-finished-my-year-mile.html",
 				
 				"content_html": "<p>I finished my 18 year 2190 mile project of hiking the Appalachian Trail.</p>\n<p><a href=\"https://outdoorfoo.wordpress.com/\">outdoorfoo.wordpress.com</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I finished my 18 year 2190 mile project of hiking the Appalachian Trail.\n\n[outdoorfoo.wordpress.com](https://outdoorfoo.wordpress.com/)\n\n<img src=\"uploads/2025/896e1dc94b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I finished my 18 year 2190 mile project of hiking the Appalachian Trail.\n\n[outdoorfoo.wordpress.com](https://outdoorfoo.wordpress.com/)\n\n<img src=\"https://curious.port111.com/uploads/2025/896e1dc94b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-08-12T06:21:50-05:00",
 				"url": "https://curious.port111.com/2025/08/12/i-finished-my-year-mile.html",
 				"tags": ["hiking"]
@@ -463,6 +472,14 @@
 				"url": "https://curious.port111.com/2025/07/21/mt-washington-version-done.html"
 			},
 			{
+				"id": "http://eludom.micro.blog/2025/07/19/more-huts-actual-trail.html",
+				"title": "More huts.  Actual Trail?",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"wp-block-paragraph\"></p>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" width=\"1024\" height=\"768\" data-attachment-id=\"724\" data-permalink=\"https://outdoorfoo.wordpress.com/2025/07/19/more-huts-actual-trail/img_20250717_173410939_hdr4881604246659242571/\" data-orig-file=\"https://outdoorfoo.wordpress.com/wp-content/uploads/2025/07/img_20250717_173410939_hdr4881604246659242571.jpg\" data-orig-size=\"2000,1500\" data-comments-opened=\"1\" data-image-meta=\"{\"aperture\":\"2.2\",\"credit\":\"\",\"camera\":\"moto g power\",\"caption\":\"\",\"created_timestamp\":\"1752773657\",\"copyright\":\"\",\"focal_length\":\"1.66\",\"iso\":\"100\",\"shutter_speed\":\"0.0033333333333333\",\"title\":\"\",\"orientation\":\"1\",\"latitude\":\"44.195759\",\"longitude\":\"-71.494215972222\"}\" data-image-title=\"img_20250717_173410939_hdr4881604246659242571\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://outdoorfoo.wordpress.com/wp-content/uploads/2025/07/img_20250717_173410939_hdr4881604246659242571.jpg?w=300\" data-large-file=\"https://outdoorfoo.wordpress.com/wp-content/uploads/2025/07/img_20250717_173410939_hdr4881604246659242571.jpg?w=640\" src=\"https://curious.port111.com/uploads/2026/img-20250717-173410939-hdr4881604246659242571.jpg\" alt=\"\" class=\"wp-image-724\" srcset=\"https://curious.port111.com/uploads/2026/img-20250717-173410939-hdr4881604246659242571.jpg 1024w, https://outdoorfoo.wordpress.com/wp-content/uploads/2025/07/img_20250717_173410939_hdr4881604246659242571.jpg?w=150 150w, https://outdoorfoo.wordpress.com/wp-content/uploads/2025/07/img_20250717_173410939_hdr4881604246659242571.jpg?w=300 300w, https://outdoorfoo.wordpress.com/wp-content/uploads/2025/07/img_20250717_173410939_hdr4881604246659242571.jpg?w=768 768w, https://outdoorfoo.wordpress.com/wp-content/uploads/2025/07/img_20250717_173410939_hdr4881604246659242571.jpg?w=1440 1440w, https://outdoorfoo.wordpress.com/wp-content/uploads/2025/07/img_20250717_173410939_hdr4881604246659242571.jpg 2000w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Zealand Falls hut.</p>\n\n\n\n<p class=\"wp-block-paragraph\">These are mostly unedited daily notes to self:</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8211; read 1st chapter of book about Joe Dodge.&nbsp; He is a legend in NH hiking community.&nbsp;&nbsp; Ran the huts from 1920s to 1959.&nbsp; There are still stories about him.<br />&#8211; packed up<br />&#8211; breakfast at Zealand Falls hut<br />&#8211; ate with older ladies from NC that we hiked with for 3 nights<br />&#8211; the were 1st coed class at small liberal arts college in NC (starts with &#8220;b&#8221;)<br />&#8211; one was a doctor + PhD<br />&#8211; one&#8217;s dad was a CCC chaplain and had worked for Joe Dodge in the NH huts at 14 in 1942<br />&#8211; one had lost her husband 3 years prior and spread his ashes on Mt Garfield, his favorite peak(peak we crossed with old fire tower base)<br />&#8211; &#8220;Utah&#8221; didn&#8217;t make it into Zealand Falls.&nbsp; The weather report (lightning) scared him off.&nbsp; The ladies told us he got a hotel<br />&#8211; yesterday we skipped breakfast at galehead but and went out an hour and a half early to miss lightning<br />&#8211; it never came while we were hiking<br />&#8211; only small exposed stretch around mount guyot<br />&#8211; moral of the story: don&#8217;t trust weather reports (or don&#8217;t let them scare you)<br />&#8211; 3 or 4 miles of actual trail !!!<br />&#8211; 1st hill only bad climb<br />&#8211; start 6:45 in by 12:30<br />&#8211; talked to hikers<br />&#8211; &#8220;spicy&#8221; and her husband.&nbsp; He hiked on in rain.&nbsp; She did work for stay.<br />&#8211; &#8220;numbers&#8221; there with friend&#8217;s 7 year old boy<br />&#8211; other family with grandmother, parents and 3 grandchildren<br />&#8211; all 4 kids has a blast playing in rain puddles<br />&#8211; dinner and breakfast at hut &#8230; more than you could eat.<br />&#8211; &#8220;numbers&#8221; is a local.&nbsp; Gave us good Intel on trails ahead<br />&#8211; our planned 16 mile day from Carter notch to Gorham might be too much for one day<br />&#8211; we changed plans: picking up our hiking gear early from hotel where we dropped it to allow camping, breaking that one up.&nbsp; Would eat into &#8220;zero&#8221; day in Gorham<br />&#8211; very easy hike out to 302 from Zealand Falls.&nbsp; 7 miles NO climbs, flat trail<br />&#8211; old work/college friend met us, we went to rental (large place near ski lift)<br />&#8211; pack explosion<br />&#8211; laundry<br />&#8211; drove to Lincoln NH to get camping gear, food for possible overnight, snacks/bars for next 5 days of hiking, dinner<br />&#8211; I stopped back at store where I had purchased &#8220;Topo&#8221; trail runners and thanked sales person, &#8220;jay&#8221; for the good recommendation.&nbsp; Good traction.&nbsp; No blisters.&nbsp; No scrunched toes.<br />&#8211;</p><p><img src=\"https://curious.port111.com/uploads/2026/821fa99124.jpg\">\n",
+				"date_published": "2025-07-19T08:26:14-05:00",
+				"url": "https://curious.port111.com/2025/07/19/more-huts-actual-trail.html"
+			},
+			{
 				"id": "http://eludom.micro.blog/2025/07/19/hut-to-hut.html",
 				"title": "Hut to hut",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
@@ -507,7 +524,7 @@
 				"id": "http://eludom.micro.blog/2025/06/30/day-solitude-a-beautiful-morning.html",
 				
 				"content_html": "<p>Day 30: solitude.  A beautiful morning alone atop Mt Everett in Massachusetts.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 30: solitude.  A beautiful morning alone atop Mt Everett in Massachusetts.\n\n<img src=\"uploads/2025/221f6d54c3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 30: solitude.  A beautiful morning alone atop Mt Everett in Massachusetts.\n\n<img src=\"https://curious.port111.com/uploads/2025/221f6d54c3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-30T04:56:27-05:00",
 				"url": "https://curious.port111.com/2025/06/30/day-solitude-a-beautiful-morning.html"
 			},
@@ -515,7 +532,7 @@
 				"id": "http://eludom.micro.blog/2025/06/29/day-winding-more-than-enough.html",
 				
 				"content_html": "<p>Day 29: winding.  More than enough rope to hang a bear bag.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 29: winding.  More than enough rope to hang a bear bag.\n\n<img src=\"uploads/2025/9fb6d901ee.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 29: winding.  More than enough rope to hang a bear bag.\n\n<img src=\"https://curious.port111.com/uploads/2025/9fb6d901ee.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-29T18:39:31-05:00",
 				"url": "https://curious.port111.com/2025/06/29/day-winding-more-than-enough.html"
 			},
@@ -523,7 +540,7 @@
 				"id": "http://eludom.micro.blog/2025/06/29/day-winding-this-singer-sewing.html",
 				
 				"content_html": "<p>Day 29: winding.  This singer sewing machine aboard the &ldquo;Fram&rdquo; in Oslo reminds me of a very similar model my grandmother had.   There was lots of winding and unwinding of spools of thread.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 29: winding.  This singer sewing machine aboard the \"Fram\" in Oslo reminds me of a very similar model my grandmother had.   There was lots of winding and unwinding of spools of thread.\n\n<img src=\"uploads/2025/e40fb7cf08.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 29: winding.  This singer sewing machine aboard the \"Fram\" in Oslo reminds me of a very similar model my grandmother had.   There was lots of winding and unwinding of spools of thread.\n\n<img src=\"https://curious.port111.com/uploads/2025/e40fb7cf08.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-29T03:46:42-05:00",
 				"url": "https://curious.port111.com/2025/06/29/day-winding-this-singer-sewing.html"
 			},
@@ -531,7 +548,7 @@
 				"id": "http://eludom.micro.blog/2025/06/28/day-ephemeral-this-post-will.html",
 				
 				"content_html": "<p>Day 28: ephemeral.  This post will last until mic ro.blog goes away.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 28: ephemeral.  This post will last until mic ro.blog goes away.\n\n<img src=\"uploads/2025/c23a1c7233.jpg\" width=\"300\" height=\"300\" alt=\"\">\n",
+				"content_text": "Day 28: ephemeral.  This post will last until mic ro.blog goes away.\n\n<img src=\"https://curious.port111.com/uploads/2025/c23a1c7233.jpg\" width=\"300\" height=\"300\" alt=\"\">\n",
 				"date_published": "2025-06-28T04:54:32-05:00",
 				"url": "https://curious.port111.com/2025/06/28/day-ephemeral-this-post-will.html"
 			},
@@ -539,7 +556,7 @@
 				"id": "http://eludom.micro.blog/2025/06/27/day-collective-peace-is-a.html",
 				
 				"content_html": "<p>Day 27: collective:  Peace is a collective effort.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 27: collective:  Peace is a collective effort.\n\n<img src=\"uploads/2025/3837b8ada2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 27: collective:  Peace is a collective effort.\n\n<img src=\"https://curious.port111.com/uploads/2025/3837b8ada2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-27T07:02:03-05:00",
 				"url": "https://curious.port111.com/2025/06/27/day-collective-peace-is-a.html"
 			},
@@ -547,7 +564,7 @@
 				"id": "http://eludom.micro.blog/2025/06/26/day-bridge-building-a-bridge.html",
 				
 				"content_html": "<p>Day 26: bridge.  Building a bridge at Caroline furnace with the Potomac Appalachian Trail Club.  Cedar logs smell very nice when cut.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 26: bridge.  Building a bridge at Caroline furnace with the Potomac Appalachian Trail Club.  Cedar logs smell very nice when cut.\n\n<img src=\"uploads/2025/5d818dc03f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 26: bridge.  Building a bridge at Caroline furnace with the Potomac Appalachian Trail Club.  Cedar logs smell very nice when cut.\n\n<img src=\"https://curious.port111.com/uploads/2025/5d818dc03f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-26T02:48:25-05:00",
 				"url": "https://curious.port111.com/2025/06/26/day-bridge-building-a-bridge.html",
 				"tags": ["hiking"]
@@ -556,7 +573,7 @@
 				"id": "http://eludom.micro.blog/2025/06/25/day-decay-forum-romanum-nihil.html",
 				
 				"content_html": "<p>Day 25: decay.  Forum Romanum.  Nihil in aeturnum manet.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 25: decay.  Forum Romanum.  Nihil in aeturnum manet.\n\n<img src=\"uploads/2025/fe4eb34966.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 25: decay.  Forum Romanum.  Nihil in aeturnum manet.\n\n<img src=\"https://curious.port111.com/uploads/2025/fe4eb34966.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-25T06:00:14-05:00",
 				"url": "https://curious.port111.com/2025/06/25/day-decay-forum-romanum-nihil.html"
 			},
@@ -564,7 +581,7 @@
 				"id": "http://eludom.micro.blog/2025/06/25/day-bloom-one-of-the.html",
 				
 				"content_html": "<p>Day 24: bloom.  One of the prettiest flower arrangements we&rsquo;ve gotten in a while.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 24: bloom.  One of the prettiest flower arrangements we've gotten in a while.\n\n<img src=\"uploads/2025/778c8c49e6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 24: bloom.  One of the prettiest flower arrangements we've gotten in a while.\n\n<img src=\"https://curious.port111.com/uploads/2025/778c8c49e6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-25T05:54:41-05:00",
 				"url": "https://curious.port111.com/2025/06/25/day-bloom-one-of-the.html"
 			},
@@ -572,7 +589,7 @@
 				"id": "http://eludom.micro.blog/2025/06/23/day-fracture-a-model-of.html",
 				
 				"content_html": "<p>Day 23: fracture. A model of the Norwegian polar exploration ship &ldquo;Fram&rdquo; amid much fractured ice.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 23: fracture. A model of the Norwegian polar exploration ship \"Fram\" amid much fractured ice.\n\n<img src=\"uploads/2025/9cb59c2144.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 23: fracture. A model of the Norwegian polar exploration ship \"Fram\" amid much fractured ice.\n\n<img src=\"https://curious.port111.com/uploads/2025/9cb59c2144.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-23T09:39:16-05:00",
 				"url": "https://curious.port111.com/2025/06/23/day-fracture-a-model-of.html"
 			},
@@ -580,7 +597,7 @@
 				"id": "http://eludom.micro.blog/2025/06/21/day-silhouette-backpacking-in-shenandoah.html",
 				
 				"content_html": "<p>Day 21: silhouette.  Backpacking in Shenandoah National Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 21: silhouette.  Backpacking in Shenandoah National Park \n\n<img src=\"uploads/2025/858a4d07bc.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Day 21: silhouette.  Backpacking in Shenandoah National Park \n\n<img src=\"https://curious.port111.com/uploads/2025/858a4d07bc.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2025-06-21T12:53:55-05:00",
 				"url": "https://curious.port111.com/2025/06/21/day-silhouette-backpacking-in-shenandoah.html"
 			},
@@ -588,7 +605,7 @@
 				"id": "http://eludom.micro.blog/2025/06/21/day-gather-ive-gathered-and.html",
 				
 				"content_html": "<p>Day 20: gather.   I&rsquo;ve gathered (and eaten) a lot of berries in my day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 20: gather.   I've gathered (and eaten) a lot of berries in my day \n\n<img src=\"uploads/2025/776bab2a31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 20: gather.   I've gathered (and eaten) a lot of berries in my day \n\n<img src=\"https://curious.port111.com/uploads/2025/776bab2a31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-21T12:51:39-05:00",
 				"url": "https://curious.port111.com/2025/06/21/day-gather-ive-gathered-and.html"
 			},
@@ -596,7 +613,7 @@
 				"id": "http://eludom.micro.blog/2025/06/19/day-equal-st-paul-cathedral.html",
 				
 				"content_html": "<p>Day 19: equal.  St. Paul cathedral, 5th Ave, Pittsburgh.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 19: equal.  St. Paul cathedral, 5th Ave, Pittsburgh.\n\n<img src=\"uploads/2025/fb4cfef101.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 19: equal.  St. Paul cathedral, 5th Ave, Pittsburgh.\n\n<img src=\"https://curious.port111.com/uploads/2025/fb4cfef101.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-18T22:57:42-05:00",
 				"url": "https://curious.port111.com/2025/06/19/day-equal-st-paul-cathedral.html"
 			},
@@ -604,7 +621,7 @@
 				"id": "http://eludom.micro.blog/2025/06/18/day-texture-a-somewhat-forgettable.html",
 				
 				"content_html": "<p>Day 18: texture.  A somewhat forgettable album.  Cool sleeve design though.   The name of the album was a cut-out/stensil over the inner sleeve.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 18: texture.  A somewhat forgettable album.  Cool sleeve design though.   The name of the album was a cut-out/stensil over the inner sleeve.\n\n<img src=\"uploads/2025/7dc0d607f5.jpg\" width=\"310\" height=\"310\" alt=\"\">\n",
+				"content_text": "Day 18: texture.  A somewhat forgettable album.  Cool sleeve design though.   The name of the album was a cut-out/stensil over the inner sleeve.\n\n<img src=\"https://curious.port111.com/uploads/2025/7dc0d607f5.jpg\" width=\"310\" height=\"310\" alt=\"\">\n",
 				"date_published": "2025-06-17T22:47:02-05:00",
 				"url": "https://curious.port111.com/2025/06/18/day-texture-a-somewhat-forgettable.html"
 			},
@@ -612,7 +629,7 @@
 				"id": "http://eludom.micro.blog/2025/06/17/day-warmth-the-summer-palace.html",
 				
 				"content_html": "<p>Day 17: warmth.  The summer palace in Vienna.  Because 2 or 3 others were not enough?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 17: warmth.  The summer palace in Vienna.  Because 2 or 3 others were not enough?\n\n<img src=\"uploads/2025/8ccc2c3f88.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 17: warmth.  The summer palace in Vienna.  Because 2 or 3 others were not enough?\n\n<img src=\"https://curious.port111.com/uploads/2025/8ccc2c3f88.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-17T08:58:49-05:00",
 				"url": "https://curious.port111.com/2025/06/17/day-warmth-the-summer-palace.html"
 			},
@@ -620,7 +637,7 @@
 				"id": "http://eludom.micro.blog/2025/06/16/day-blur-sunrise-at-philmont.html",
 				
 				"content_html": "<p>Day 16: Blur.   Sunrise at Philmont.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 16: Blur.   Sunrise at Philmont.\n\n<img src=\"uploads/2025/8c3ed05ba9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 16: Blur.   Sunrise at Philmont.\n\n<img src=\"https://curious.port111.com/uploads/2025/8c3ed05ba9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-15T20:38:37-05:00",
 				"url": "https://curious.port111.com/2025/06/16/day-blur-sunrise-at-philmont.html"
 			},
@@ -628,7 +645,7 @@
 				"id": "http://eludom.micro.blog/2025/06/16/day-tie-scouts-having-fun.html",
 				
 				"content_html": "<p>Day 15: tie.   Scouts having fun with knots.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 15: tie.   Scouts having fun with knots.\n\n<img src=\"uploads/2025/127778eee7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 15: tie.   Scouts having fun with knots.\n\n<img src=\"https://curious.port111.com/uploads/2025/127778eee7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-15T20:31:51-05:00",
 				"url": "https://curious.port111.com/2025/06/16/day-tie-scouts-having-fun.html"
 			},
@@ -636,7 +653,7 @@
 				"id": "http://eludom.micro.blog/2025/06/16/day-twilight.html",
 				
 				"content_html": "<p>Day 14: twilight</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 14: twilight \n\n<img src=\"uploads/2025/b70a80e3c0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 14: twilight \n\n<img src=\"https://curious.port111.com/uploads/2025/b70a80e3c0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-15T20:23:13-05:00",
 				"url": "https://curious.port111.com/2025/06/16/day-twilight.html"
 			},
@@ -644,7 +661,7 @@
 				"id": "http://eludom.micro.blog/2025/06/16/day-pathway-sidewalk-art-by.html",
 				
 				"content_html": "<p>Day 13: pathway.  Sidewalk art by neighborhood kids.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 13: pathway.  Sidewalk art by neighborhood kids.\n\n<img src=\"uploads/2025/62df410d0c.jpg\" width=\"600\" height=\"485\" alt=\"\">\n",
+				"content_text": "Day 13: pathway.  Sidewalk art by neighborhood kids.\n\n<img src=\"https://curious.port111.com/uploads/2025/62df410d0c.jpg\" width=\"600\" height=\"485\" alt=\"\">\n",
 				"date_published": "2025-06-15T20:17:11-05:00",
 				"url": "https://curious.port111.com/2025/06/16/day-pathway-sidewalk-art-by.html"
 			},
@@ -660,7 +677,7 @@
 				"id": "http://eludom.micro.blog/2025/06/11/day-brick.html",
 				
 				"content_html": "<p>Day 11: brick</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 11: brick\n\n<img src=\"uploads/2025/f1d0511719.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 11: brick\n\n<img src=\"https://curious.port111.com/uploads/2025/f1d0511719.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-10T22:41:16-05:00",
 				"url": "https://curious.port111.com/2025/06/11/day-brick.html"
 			},
@@ -668,7 +685,7 @@
 				"id": "http://eludom.micro.blog/2025/06/10/day-rail-appalachian-trail-stop.html",
 				
 				"content_html": "<p>Day 10: rail.  Appalachian trail stop on New York metro north.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 10: rail.  Appalachian trail stop on New York metro north.\n\n<img src=\"uploads/2025/91cf7ca9c3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 10: rail.  Appalachian trail stop on New York metro north.\n\n<img src=\"https://curious.port111.com/uploads/2025/91cf7ca9c3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-09T23:46:00-05:00",
 				"url": "https://curious.port111.com/2025/06/10/day-rail-appalachian-trail-stop.html",
 				"tags": ["hiking"]
@@ -677,7 +694,7 @@
 				"id": "http://eludom.micro.blog/2025/06/08/day-travel-rosenborg-castle-copenhagen.html",
 				
 				"content_html": "<p>Day 8: travel 📷 Rosenborg castle, Copenhagen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 8: travel 📷 Rosenborg castle, Copenhagen.\n\n<img src=\"uploads/2025/e4e65d6e02.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 8: travel 📷 Rosenborg castle, Copenhagen.\n\n<img src=\"https://curious.port111.com/uploads/2025/e4e65d6e02.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-07T23:39:57-05:00",
 				"url": "https://curious.port111.com/2025/06/08/day-travel-rosenborg-castle-copenhagen.html"
 			},
@@ -685,7 +702,7 @@
 				"id": "http://eludom.micro.blog/2025/06/07/day-switch-mosby-went-from.html",
 				
 				"content_html": "<p>Day 7: Switch 📷  Mosby went from (probably) planning the escape route used by John Wilkes Booth after assassinating Lincoln to running U S Grant&rsquo;s Virginia presidential campaign.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 7: Switch 📷  Mosby went from (probably) planning the escape route used by John Wilkes Booth after assassinating Lincoln to running U S Grant's Virginia presidential campaign.\n\n<img src=\"uploads/2025/fdc95daf19.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 7: Switch 📷  Mosby went from (probably) planning the escape route used by John Wilkes Booth after assassinating Lincoln to running U S Grant's Virginia presidential campaign.\n\n<img src=\"https://curious.port111.com/uploads/2025/fdc95daf19.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-06T23:22:00-05:00",
 				"url": "https://curious.port111.com/2025/06/07/day-switch-mosby-went-from.html",
 				"tags": ["history","blogging"]
@@ -694,7 +711,7 @@
 				"id": "http://eludom.micro.blog/2025/06/06/day-contrast-my-father-the.html",
 				
 				"content_html": "<p>Day 6: contrast 📷 my father the photography major and his &ldquo;axe&rdquo; c. a. 1957</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 6: contrast 📷 my father the photography major and his \"axe\" c. a. 1957\n\n<img src=\"uploads/2025/570897ba30.jpg\" width=\"418\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 6: contrast 📷 my father the photography major and his \"axe\" c. a. 1957\n\n<img src=\"https://curious.port111.com/uploads/2025/570897ba30.jpg\" width=\"418\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-05T23:38:31-05:00",
 				"url": "https://curious.port111.com/2025/06/06/day-contrast-my-father-the.html"
 			},
@@ -702,7 +719,7 @@
 				"id": "http://eludom.micro.blog/2025/06/05/day-reflection-boats-off-jekyll.html",
 				
 				"content_html": "<p>Day 5: reflection.  Boats off Jekyll island, Georgia.</p>\n<p><a href=\"https://micro.blog/manton\">@manton</a> doing the challenge.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " \nDay 5: reflection.  Boats off Jekyll island, Georgia.\n\n[@manton](https://micro.blog/manton) doing the challenge.\n\n<img src=\"uploads/2025/431cec37c4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": " \nDay 5: reflection.  Boats off Jekyll island, Georgia.\n\n[@manton](https://micro.blog/manton) doing the challenge.\n\n<img src=\"https://curious.port111.com/uploads/2025/431cec37c4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-05T09:57:14-05:00",
 				"url": "https://curious.port111.com/2025/06/05/day-reflection-boats-off-jekyll.html"
 			},
@@ -719,7 +736,7 @@
 				"id": "http://eludom.micro.blog/2025/06/04/day-nostalgia-analog-physical-media.html",
 				
 				"content_html": "<p>Day 4: nostalgia 📷 Analog.  Physical media.   Dropping the needle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " \nDay 4: nostalgia 📷 Analog.  Physical media.   Dropping the needle. \n\n<img src=\"uploads/2025/2f372a3fe2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": " \nDay 4: nostalgia 📷 Analog.  Physical media.   Dropping the needle. \n\n<img src=\"https://curious.port111.com/uploads/2025/2f372a3fe2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-04T04:43:09-05:00",
 				"url": "https://curious.port111.com/2025/06/04/day-nostalgia-analog-physical-media.html"
 			},
@@ -727,7 +744,7 @@
 				"id": "http://eludom.micro.blog/2025/06/03/day-shadow-copy-of-michelangelos.html",
 				
 				"content_html": "<p>Day 3: shadow 📷 .  Copy of Michelangelo&rsquo;s &ldquo;David&rdquo; in Florence.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " Day 3: shadow 📷 .  Copy of Michelangelo's \"David\" in Florence.\n\n<img src=\"uploads/2025/f7c45d6f28.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": " Day 3: shadow 📷 .  Copy of Michelangelo's \"David\" in Florence.\n\n<img src=\"https://curious.port111.com/uploads/2025/f7c45d6f28.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-03T05:00:42-05:00",
 				"url": "https://curious.port111.com/2025/06/03/day-shadow-copy-of-michelangelos.html"
 			},
@@ -735,7 +752,7 @@
 				"id": "http://eludom.micro.blog/2025/06/02/day-curve-mbjune-the-man.html",
 				
 				"content_html": "<p>Day 2: curve. 📷.  #mbjune.   The man hit a lot of curve balls.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 2: curve. 📷.  #mbjune.   The man hit a lot of curve balls.\n\n<img src=\"uploads/2025/0fd44506df.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 2: curve. 📷.  #mbjune.   The man hit a lot of curve balls.\n\n<img src=\"https://curious.port111.com/uploads/2025/0fd44506df.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-02T03:33:31-05:00",
 				"url": "https://curious.port111.com/2025/06/02/day-curve-mbjune-the-man.html"
 			},
@@ -743,7 +760,7 @@
 				"id": "http://eludom.micro.blog/2025/06/01/day-tree-mbjune-my-father.html",
 				
 				"content_html": "<p>Day 1: Tree. 📷.  #mbjune.    My father was a professional photographer and had a thing for picutres of dead trees.   I maintain the tradition (but certianly not at the same artistic level, and I&rsquo;m not developing my own film and making my own prints anymore).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\r\nDay 1: Tree. 📷.  #mbjune.    My father was a professional photographer and had a thing for picutres of dead trees.   I maintain the tradition (but certianly not at the same artistic level, and I'm not developing my own film and making my own prints anymore).\n\n<img src=\"uploads/2025/deadtree.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\r\nDay 1: Tree. 📷.  #mbjune.    My father was a professional photographer and had a thing for picutres of dead trees.   I maintain the tradition (but certianly not at the same artistic level, and I'm not developing my own film and making my own prints anymore).\n\n<img src=\"https://curious.port111.com/uploads/2025/deadtree.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-01T04:47:04-05:00",
 				"url": "https://curious.port111.com/2025/06/01/day-tree-mbjune-my-father.html"
 			},
@@ -768,7 +785,7 @@
 				"id": "http://eludom.micro.blog/2025/04/04/beauty-in-delaware-water-gap.html",
 				"title": "Beauty in Delaware Water Gap",
 				"content_html": "<p>I spent the last week hiking and GPS mapping Delaware Water Gap.  Some pretty stuff:\n<a href=\"https://outdoorfoo.wordpress.com/2025/04/04/delaware-water-gap-2/.\">outdoorfoo.wordpress.com/2025/04/0&hellip;</a></p>\n<p>A beaver dam in New Jersey:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I spent the last week hiking and GPS mapping Delaware Water Gap.  Some pretty stuff:\n[outdoorfoo.wordpress.com/2025/04/0...](https://outdoorfoo.wordpress.com/2025/04/04/delaware-water-gap-2/.)\n\nA beaver dam in New Jersey:\n\n<img src=\"uploads/2025/a170ec04bb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I spent the last week hiking and GPS mapping Delaware Water Gap.  Some pretty stuff:\n[outdoorfoo.wordpress.com/2025/04/0...](https://outdoorfoo.wordpress.com/2025/04/04/delaware-water-gap-2/.)\n\nA beaver dam in New Jersey:\n\n<img src=\"https://curious.port111.com/uploads/2025/a170ec04bb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-04T07:35:41-05:00",
 				"url": "https://curious.port111.com/2025/04/04/beauty-in-delaware-water-gap.html",
 				"tags": ["hiking","outdoors"]
@@ -786,7 +803,7 @@
 				"id": "http://eludom.micro.blog/2025/02/07/ai-just-add-people.html",
 				"title": "AI - Just Add People",
 				"content_html": "<p>This week I designed a business card for a hiking group I&rsquo;m a part of. As someone with very little design experience, I used the opportunity to put my toe into the raging torrent of AI-everything.</p>\n<p>I was able to get several very nice mock-ups from DALL.E. There were several #ChatGPT add-ons (I&rsquo;m not sure what they&rsquo;re called) that helped you design cards. They pretty much all pointed you to commercial services to finish the job. None of them pumped out a finished product.</p>\n<p>Despite the appealing visuals, the #AI struggled with the text, hallucinating information and producing fuzzy lettering.</p>\n<p>Faced with these challenges, I considered various options: I could pay for one of the AI-driven services recommended by ChatGPT or revert to a more traditional approach, reminiscent of the 2000s, by using Open Office for a hands-on design.</p>\n<p>I struck a compromise and ended up doing the layout by hand using staples.com&rsquo;s online program, borrowing ideas from DALL.E&rsquo;s good first swags.</p>\n<p>I had a related experience yesterday: I tried using one of the now ubiquitous AI-Chatbots on a medical website&hellip; it was pathetic, inept and a waste of time. I ended up calling a customer service /person/. He was confused by my issue that was not on the call script, but he was able to /understand/.</p>\n<p>This blog post was proofread by ChatGPT. Some suggestions for flow, grammar and style were incorporated. Again, decisions where made by a human as to what changes to incorporate.</p>\n<p>The moral of the story: AI helps, but for some jobs, you still need a lot of human judgent, creativity and &ldquo;manual labor&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This week I designed a business card for a hiking group I'm a part of. As someone with very little design experience, I used the opportunity to put my toe into the raging torrent of AI-everything.\r\n\r\n\r\nI was able to get several very nice mock-ups from DALL.E. There were several #ChatGPT add-ons (I'm not sure what they're called) that helped you design cards. They pretty much all pointed you to commercial services to finish the job. None of them pumped out a finished product.\r\n\r\n\r\nDespite the appealing visuals, the #AI struggled with the text, hallucinating information and producing fuzzy lettering.\r\n\r\n\r\nFaced with these challenges, I considered various options: I could pay for one of the AI-driven services recommended by ChatGPT or revert to a more traditional approach, reminiscent of the 2000s, by using Open Office for a hands-on design.\r\n\r\n\r\nI struck a compromise and ended up doing the layout by hand using staples.com's online program, borrowing ideas from DALL.E's good first swags.\r\n\r\n\r\nI had a related experience yesterday: I tried using one of the now ubiquitous AI-Chatbots on a medical website... it was pathetic, inept and a waste of time. I ended up calling a customer service /person/. He was confused by my issue that was not on the call script, but he was able to /understand/.\r\n\r\n\r\nThis blog post was proofread by ChatGPT. Some suggestions for flow, grammar and style were incorporated. Again, decisions where made by a human as to what changes to incorporate.\r\n\r\n\r\nThe moral of the story: AI helps, but for some jobs, you still need a lot of human judgent, creativity and \"manual labor\". \r\n\r\n\n\n<img src=\"uploads/2025/cards.png\" width=\"600\" height=\"362\" alt=\"\">\n",
+				"content_text": "This week I designed a business card for a hiking group I'm a part of. As someone with very little design experience, I used the opportunity to put my toe into the raging torrent of AI-everything.\r\n\r\n\r\nI was able to get several very nice mock-ups from DALL.E. There were several #ChatGPT add-ons (I'm not sure what they're called) that helped you design cards. They pretty much all pointed you to commercial services to finish the job. None of them pumped out a finished product.\r\n\r\n\r\nDespite the appealing visuals, the #AI struggled with the text, hallucinating information and producing fuzzy lettering.\r\n\r\n\r\nFaced with these challenges, I considered various options: I could pay for one of the AI-driven services recommended by ChatGPT or revert to a more traditional approach, reminiscent of the 2000s, by using Open Office for a hands-on design.\r\n\r\n\r\nI struck a compromise and ended up doing the layout by hand using staples.com's online program, borrowing ideas from DALL.E's good first swags.\r\n\r\n\r\nI had a related experience yesterday: I tried using one of the now ubiquitous AI-Chatbots on a medical website... it was pathetic, inept and a waste of time. I ended up calling a customer service /person/. He was confused by my issue that was not on the call script, but he was able to /understand/.\r\n\r\n\r\nThis blog post was proofread by ChatGPT. Some suggestions for flow, grammar and style were incorporated. Again, decisions where made by a human as to what changes to incorporate.\r\n\r\n\r\nThe moral of the story: AI helps, but for some jobs, you still need a lot of human judgent, creativity and \"manual labor\". \r\n\r\n\n\n<img src=\"https://curious.port111.com/uploads/2025/cards.png\" width=\"600\" height=\"362\" alt=\"\">\n",
 				"date_published": "2025-02-07T07:56:58-05:00",
 				"url": "https://curious.port111.com/2025/02/07/ai-just-add-people.html",
 				"tags": ["hiking","outdoors","AI"]
@@ -1022,7 +1039,7 @@
 				"id": "http://eludom.micro.blog/2024/09/18/an-accidental-trip.html",
 				"title": "An accidental trip through West Virginia",
 				"content_html": "<p>I took an accidental trip through West Virginia Monday.   Fall is arriving early in the high country of Canaan Valley.  I stumbled on the site of the first land battle of the Civil War.  And of course there is coal.</p>\n<p>Pictures at my wordpress blog: <a href=\"https://outdoorfoo.wordpress.com/2024/09/18/an-accidental-trip-through-west-virginia/\">outdoorfoo.wordpress.com/2024/09/1&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I took an accidental trip through West Virginia Monday.   Fall is arriving early in the high country of Canaan Valley.  I stumbled on the site of the first land battle of the Civil War.  And of course there is coal. \n\nPictures at my wordpress blog: [outdoorfoo.wordpress.com/2024/09/1...](https://outdoorfoo.wordpress.com/2024/09/18/an-accidental-trip-through-west-virginia/)\n\n<img src=\"uploads/2024/img-20240916-161528814.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "I took an accidental trip through West Virginia Monday.   Fall is arriving early in the high country of Canaan Valley.  I stumbled on the site of the first land battle of the Civil War.  And of course there is coal. \n\nPictures at my wordpress blog: [outdoorfoo.wordpress.com/2024/09/1...](https://outdoorfoo.wordpress.com/2024/09/18/an-accidental-trip-through-west-virginia/)\n\n<img src=\"https://curious.port111.com/uploads/2024/img-20240916-161528814.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2024-09-18T07:04:07-05:00",
 				"url": "https://curious.port111.com/2024/09/18/an-accidental-trip.html"
 			},
@@ -1038,7 +1055,7 @@
 				"id": "http://eludom.micro.blog/2024/09/06/heres-a-plant.html",
 				
 				"content_html": "<p>Here&rsquo;s A plant I&rsquo;ve never seen before &ldquo;Old man&rsquo;s beard&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Here's A plant I've never seen before \"Old man's beard\"\n\n\n\n<img src=\"uploads/2024/55415816d1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Here's A plant I've never seen before \"Old man's beard\"\n\n\n\n<img src=\"https://curious.port111.com/uploads/2024/55415816d1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-06T05:12:50-05:00",
 				"url": "https://curious.port111.com/2024/09/06/heres-a-plant.html"
 			},
@@ -1163,7 +1180,7 @@
 				"id": "http://eludom.micro.blog/2024/08/24/its-not-safe.html",
 				"title": "It's not safe 📝 ⛺️",
 				"content_html": "<p>What risks do you take?  Why?  Do you think about it, or just do it?</p>\n<p>In a recent post, <a href=\"https://micro.blog/jarrod\">@jarrod</a> said &ldquo;Much like I think it&rsquo;s important to\ndo hard things, I also think it&rsquo;s important to make yourself do scary\nthings from time to time.&rdquo;</p>\n<p>I&rsquo;m not generally a big risk taker, but I started hiking the\nAppalachian Trail in 2008, and I simply go where it goes, and take\nwhat it gives.  I&rsquo;m on track to finish next summer.</p>\n<p>Last fall I found myself climbing up Sugarloaf moutian in Maine,\nsomething like 1000' in 1/2 mile.   This was not hiking.   There are\nlots of places like that where you think, &ldquo;Hmm, wish I could rope in&rdquo;,\nbut nope, that&rsquo;s just where the &ldquo;trail&rdquo; goes.  You just do it.\nAnd hope it&rsquo;s not raining when you do.</p>\n<p>Snakes like warm rocks.   They often blend in very well.  Sometimes\nyou almost sit on them or step on them without noticing.  Sometimes\nanother hiker happens to see you about to do it and warns you.\nSometimes.</p>\n<p>A few months ago my son and I hiked the &ldquo;Grand Canyon of Pennsylvania&rdquo;.\nThe trail goes <strong>right next to</strong> the canyon quite a bit of the time.\nI&rsquo;m not a fan of heights. Trails go by cliff sides quite regularly.</p>\n<p>Bears a fairly common sight where I go.   Generally, don&rsquo;t bother\nthem, they don&rsquo;t bother you.   Don&rsquo;t feed them, make eye contact, run\naway.  Hiking in groups helps because apparently bears cant count past\n2 or 3 (&ldquo;One hiker, Two hikers, TOO MANY hikers…&quot;).  Making yourself\nlook large is also supposedly good.   And of course, smells.  They\ncan&rsquo;t see well, buy they can smell 20 times better than you.  Hang\nyour food.  Keep it out of your tent.</p>\n<p>Then there are the guys-in-cammo-wtih-dogs-guns-and-knives who don&rsquo;t\nquite fit in with the hiker crowd.  One of them had big black dogs\nthat another hiker commented on &ldquo;I&rsquo;m not sure he could control his\ndogs if they got away&rdquo;.   Of course he camped right by the outhouse\nand the dogs barked at anyone who came near all night.</p>\n<p>Then there is the hike I hope to do next year, up Mount Washington\nwhere it snows 12 months out of the year, and where the highest wind\nspeed ever recorded on the surface of the planet was measured.\nYou&rsquo;ve above tree line.   People die there every year, even in sight\nof the shelters.  That&rsquo;s a hike I plan on taking very seriously.</p>\n<p>This is post #1/8 for <a href=\"https://aggronaut.com/2024/07/12/blaugust-2024-is-coming/\">Blaugust 2024</a>.  Joining late.  I think I can make 8 posts :-)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What risks do you take?  Why?  Do you think about it, or just do it?\n\n\nIn a recent post, [@jarrod](https://micro.blog/jarrod) said \"Much like I think it's important to\ndo hard things, I also think it's important to make yourself do scary\nthings from time to time.\"\n\nI'm not generally a big risk taker, but I started hiking the\nAppalachian Trail in 2008, and I simply go where it goes, and take\nwhat it gives.  I'm on track to finish next summer.\n\nLast fall I found myself climbing up Sugarloaf moutian in Maine,\nsomething like 1000' in 1/2 mile.   This was not hiking.   There are\nlots of places like that where you think, \"Hmm, wish I could rope in\",\nbut nope, that's just where the \"trail\" goes.  You just do it.\nAnd hope it's not raining when you do.\n\nSnakes like warm rocks.   They often blend in very well.  Sometimes\nyou almost sit on them or step on them without noticing.  Sometimes\nanother hiker happens to see you about to do it and warns you.\nSometimes.\n\nA few months ago my son and I hiked the \"Grand Canyon of Pennsylvania\".\nThe trail goes **right next to** the canyon quite a bit of the time.\nI'm not a fan of heights. Trails go by cliff sides quite regularly.\n\nBears a fairly common sight where I go.   Generally, don't bother\nthem, they don't bother you.   Don't feed them, make eye contact, run\naway.  Hiking in groups helps because apparently bears cant count past\n2 or 3 (\"One hiker, Two hikers, TOO MANY hikers…\").  Making yourself\nlook large is also supposedly good.   And of course, smells.  They\ncan't see well, buy they can smell 20 times better than you.  Hang\nyour food.  Keep it out of your tent.\n\nThen there are the guys-in-cammo-wtih-dogs-guns-and-knives who don't\nquite fit in with the hiker crowd.  One of them had big black dogs\nthat another hiker commented on \"I'm not sure he could control his\ndogs if they got away\".   Of course he camped right by the outhouse\nand the dogs barked at anyone who came near all night.\n\nThen there is the hike I hope to do next year, up Mount Washington\nwhere it snows 12 months out of the year, and where the highest wind\nspeed ever recorded on the surface of the planet was measured.\nYou've above tree line.   People die there every year, even in sight\nof the shelters.  That's a hike I plan on taking very seriously.\n\nThis is post #1/8 for [Blaugust 2024](https://aggronaut.com/2024/07/12/blaugust-2024-is-coming/).  Joining late.  I think I can make 8 posts :-)\n\n\n\n<img src=\"uploads/2024/snake.jpg\" width=\"600\" height=\"450\" alt=\"A snake I almost stepped on\">\n",
+				"content_text": "What risks do you take?  Why?  Do you think about it, or just do it?\n\n\nIn a recent post, [@jarrod](https://micro.blog/jarrod) said \"Much like I think it's important to\ndo hard things, I also think it's important to make yourself do scary\nthings from time to time.\"\n\nI'm not generally a big risk taker, but I started hiking the\nAppalachian Trail in 2008, and I simply go where it goes, and take\nwhat it gives.  I'm on track to finish next summer.\n\nLast fall I found myself climbing up Sugarloaf moutian in Maine,\nsomething like 1000' in 1/2 mile.   This was not hiking.   There are\nlots of places like that where you think, \"Hmm, wish I could rope in\",\nbut nope, that's just where the \"trail\" goes.  You just do it.\nAnd hope it's not raining when you do.\n\nSnakes like warm rocks.   They often blend in very well.  Sometimes\nyou almost sit on them or step on them without noticing.  Sometimes\nanother hiker happens to see you about to do it and warns you.\nSometimes.\n\nA few months ago my son and I hiked the \"Grand Canyon of Pennsylvania\".\nThe trail goes **right next to** the canyon quite a bit of the time.\nI'm not a fan of heights. Trails go by cliff sides quite regularly.\n\nBears a fairly common sight where I go.   Generally, don't bother\nthem, they don't bother you.   Don't feed them, make eye contact, run\naway.  Hiking in groups helps because apparently bears cant count past\n2 or 3 (\"One hiker, Two hikers, TOO MANY hikers…\").  Making yourself\nlook large is also supposedly good.   And of course, smells.  They\ncan't see well, buy they can smell 20 times better than you.  Hang\nyour food.  Keep it out of your tent.\n\nThen there are the guys-in-cammo-wtih-dogs-guns-and-knives who don't\nquite fit in with the hiker crowd.  One of them had big black dogs\nthat another hiker commented on \"I'm not sure he could control his\ndogs if they got away\".   Of course he camped right by the outhouse\nand the dogs barked at anyone who came near all night.\n\nThen there is the hike I hope to do next year, up Mount Washington\nwhere it snows 12 months out of the year, and where the highest wind\nspeed ever recorded on the surface of the planet was measured.\nYou've above tree line.   People die there every year, even in sight\nof the shelters.  That's a hike I plan on taking very seriously.\n\nThis is post #1/8 for [Blaugust 2024](https://aggronaut.com/2024/07/12/blaugust-2024-is-coming/).  Joining late.  I think I can make 8 posts :-)\n\n\n\n<img src=\"https://eludom.micro.blog/uploads/2024/snake.jpg\" width=\"600\" height=\"450\" alt=\"A snake I almost stepped on\">\n",
 				"date_published": "2024-08-24T07:04:05-05:00",
 				"url": "https://curious.port111.com/2024/08/24/its-not-safe.html",
 				"tags": ["hiking","blogging"]
@@ -1172,7 +1189,7 @@
 				"id": "http://eludom.micro.blog/2024/08/23/about-miles-ago.html",
 				"title": "About 1900 miles ago...  ⛺️",
 				"content_html": "<p>16 years ago my son and I started hiking the Appalachian trail with a 47 mile weekend in Shenandoah national park.  We spent our first night under a picnic table.   Why?  Our gear, skills (and judgement?) have improved since then.   I will likely finish the AT going up Mt Washington next year.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "16 years ago my son and I started hiking the Appalachian trail with a 47 mile weekend in Shenandoah national park.  We spent our first night under a picnic table.   Why?  Our gear, skills (and judgement?) have improved since then.   I will likely finish the AT going up Mt Washington next year. \n\n<img src=\"uploads/2024/477a94e560.jpg\" width=\"600\" height=\"450\" alt=\"Starting a 16 year kike\"><img src=\"uploads/2024/57d12c621c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "16 years ago my son and I started hiking the Appalachian trail with a 47 mile weekend in Shenandoah national park.  We spent our first night under a picnic table.   Why?  Our gear, skills (and judgement?) have improved since then.   I will likely finish the AT going up Mt Washington next year. \n\n<img src=\"https://eludom.micro.blog/uploads/2024/477a94e560.jpg\" width=\"600\" height=\"450\" alt=\"Starting a 16 year kike\"><img src=\"https://eludom.micro.blog/uploads/2024/57d12c621c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-23T17:23:02-05:00",
 				"url": "https://curious.port111.com/2024/08/23/about-miles-ago.html",
 				"tags": ["hiking"]
@@ -1181,7 +1198,7 @@
 				"id": "http://eludom.micro.blog/2024/08/21/miles-in-sky.html",
 				
 				"content_html": "<p>6 miles in sky meadows state park.\nFirst hint of fall.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "6 miles in sky meadows state park. \nFirst hint of fall.\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "6 miles in sky meadows state park. \nFirst hint of fall.\n\n<img src=\"https://eludom.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-21T15:46:33-05:00",
 				"url": "https://curious.port111.com/2024/08/21/miles-in-sky.html",
 				"tags": ["hiking"]
@@ -1190,7 +1207,7 @@
 				"id": "http://eludom.micro.blog/2024/08/21/ive-been-making.html",
 				"title": "Nihil novi sub sole 🎙️",
 				"content_html": "<p>I&rsquo;ve been making a third pass through <a href=\"https://thehistoryofrome.typepad.com/the_history_of_rome/2007/07/index.html\">The History of Rome</a>  <a href=\"https://micro.blog/discover/podcasts\">podcast</a> ⌛️.  So much of what&rsquo;s new is old.   The power struggles, greed, grandstanding,  intrigue, populism, lunatic rulers, and the occasional good ones.    It just helps to put the current partisan shouting in context.</p>\n<!-- raw HTML omitted -->\n<p>*Figure 1: The forum as seen from the tabularium&quot;</p>\n",
-				"content_text": "I've been making a third pass through [The History of Rome](https://thehistoryofrome.typepad.com/the_history_of_rome/2007/07/index.html)  [podcast](https://micro.blog/discover/podcasts) ⌛️.  So much of what's new is old.   The power struggles, greed, grandstanding,  intrigue, populism, lunatic rulers, and the occasional good ones.    It just helps to put the current partisan shouting in context.\n\n<img src=\"uploads/2024/forum.jpg\" width=\"300\" height=\"225\" alt=\"\">\n\n*Figure 1: The forum as seen from the tabularium\"\n",
+				"content_text": "I've been making a third pass through [The History of Rome](https://thehistoryofrome.typepad.com/the_history_of_rome/2007/07/index.html)  [podcast](https://micro.blog/discover/podcasts) ⌛️.  So much of what's new is old.   The power struggles, greed, grandstanding,  intrigue, populism, lunatic rulers, and the occasional good ones.    It just helps to put the current partisan shouting in context.\n\n<img src=\"https://eludom.micro.blog/uploads/2024/forum.jpg\" width=\"300\" height=\"225\" alt=\"\">\n\n*Figure 1: The forum as seen from the tabularium\"\n",
 				"date_published": "2024-08-21T06:45:09-05:00",
 				"url": "https://curious.port111.com/2024/08/21/ive-been-making.html",
 				"tags": ["history"]
@@ -1234,7 +1251,7 @@
 				"id": "http://eludom.micro.blog/2024/03/02/be-kind-to.html",
 				"title": "Be kind to your call center friends 📝",
 				"content_html": "<p>I&rsquo;m going to subvert the system and try to connect with humans I talk\nto in call centers as humans &hellip; at least until they are all replaced\nby AI.</p>\n<!-- raw HTML omitted -->\n<p>My life has taken a turn where it looks like I will be talking to lots of\ncustomer service people on the phone: medical stuff, tax stuff,\ninsurance stuff.  Oh joy.</p>\n<p>It&rsquo;s no fun for me, but even less fun for them. They are likely working\nan 8-5 job (at best), dealing with angry frustrated people for low\npay, having their calls recorded by &ldquo;the man&rdquo;, fed to AI for analysis,\ngraded on how quickly they get people off the phone, with often no\nknowledge of the big picture, and no empowerment (or encouragement)\nto actually understand and solve problems that are not on their call\nscript&hellip;.generally a bad place to be.</p>\n<p>I&rsquo;m going to try to subvert the system with each call.   My goal\n(beyond getting insurance bills corrected, etc) will be to connect\nwith the human on the line.  To get their name, to read their mood,\nto connect on some human topic, likely small.</p>\n<p>Some will likely be annoyed or threatened by anything that takes them\noff script or out of their role or adds 3 seconds to their measured\ntime on phone per call, but I think it&rsquo;s important to acknowledge the\nhumans in the system when we do manage to get past the AI chatbots.</p>\n<p>I/they may be rewarded with Winston Smith (1984)/Sam Lowry (Brazil)\ntorture in the end (or just having the system refuse to fucntion in\nmindless fashion), but I think the small act of humane rebellion will\nbe it&rsquo;s own reward.</p>\n<p>This is post #3/8 for  <a href=\"https://aggronaut.com/2024/07/12/blaugust-2024-is-coming/\">Blaugust 2024</a>. Joining late. I think I can make 8 posts :-)  Yes, it&rsquo;s a repost. I&rsquo;m also learning how to automate image upload in micro.blog.</p>",
-				"content_text": "I'm going to subvert the system and try to connect with humans I talk\nto in call centers as humans ... at least until they are all replaced\nby AI.\n\n\n<img src=\"uploads/2024/brazil.gif\" width=\"300\" height=\"225\" alt=\"\">\nNo good deed goes unpunished, from the movie Brazil\n\n\n<!--more-->\n\nMy life has taken a turn where it looks like I will be talking to lots of\ncustomer service people on the phone: medical stuff, tax stuff,\ninsurance stuff.  Oh joy.\n\nIt's no fun for me, but even less fun for them. They are likely working\nan 8-5 job (at best), dealing with angry frustrated people for low\npay, having their calls recorded by \"the man\", fed to AI for analysis,\ngraded on how quickly they get people off the phone, with often no\nknowledge of the big picture, and no empowerment (or encouragement)\nto actually understand and solve problems that are not on their call\nscript....generally a bad place to be.\n\nI'm going to try to subvert the system with each call.   My goal\n(beyond getting insurance bills corrected, etc) will be to connect\nwith the human on the line.  To get their name, to read their mood,\nto connect on some human topic, likely small.\n\nSome will likely be annoyed or threatened by anything that takes them\noff script or out of their role or adds 3 seconds to their measured\ntime on phone per call, but I think it's important to acknowledge the\nhumans in the system when we do manage to get past the AI chatbots.\n\nI/they may be rewarded with Winston Smith (1984)/Sam Lowry (Brazil)\ntorture in the end (or just having the system refuse to fucntion in\nmindless fashion), but I think the small act of humane rebellion will\nbe it's own reward.\n\n\nThis is post #3/8 for  [Blaugust 2024](https://aggronaut.com/2024/07/12/blaugust-2024-is-coming/). Joining late. I think I can make 8 posts :-)  Yes, it's a repost. I'm also learning how to automate image upload in micro.blog.\n\n\n\n",
+				"content_text": "I'm going to subvert the system and try to connect with humans I talk\nto in call centers as humans ... at least until they are all replaced\nby AI.\n\n\n<img src=\"https://eludom.micro.blog/uploads/2024/brazil.gif\" width=\"300\" height=\"225\" alt=\"\">\nNo good deed goes unpunished, from the movie Brazil\n\n\n<!--more-->\n\nMy life has taken a turn where it looks like I will be talking to lots of\ncustomer service people on the phone: medical stuff, tax stuff,\ninsurance stuff.  Oh joy.\n\nIt's no fun for me, but even less fun for them. They are likely working\nan 8-5 job (at best), dealing with angry frustrated people for low\npay, having their calls recorded by \"the man\", fed to AI for analysis,\ngraded on how quickly they get people off the phone, with often no\nknowledge of the big picture, and no empowerment (or encouragement)\nto actually understand and solve problems that are not on their call\nscript....generally a bad place to be.\n\nI'm going to try to subvert the system with each call.   My goal\n(beyond getting insurance bills corrected, etc) will be to connect\nwith the human on the line.  To get their name, to read their mood,\nto connect on some human topic, likely small.\n\nSome will likely be annoyed or threatened by anything that takes them\noff script or out of their role or adds 3 seconds to their measured\ntime on phone per call, but I think it's important to acknowledge the\nhumans in the system when we do manage to get past the AI chatbots.\n\nI/they may be rewarded with Winston Smith (1984)/Sam Lowry (Brazil)\ntorture in the end (or just having the system refuse to fucntion in\nmindless fashion), but I think the small act of humane rebellion will\nbe it's own reward.\n\n\nThis is post #3/8 for  [Blaugust 2024](https://aggronaut.com/2024/07/12/blaugust-2024-is-coming/). Joining late. I think I can make 8 posts :-)  Yes, it's a repost. I'm also learning how to automate image upload in micro.blog.\n\n\n\n",
 				"date_published": "2024-03-02T00:00:00-05:00",
 				"url": "https://curious.port111.com/2024/03/02/be-kind-to.html",
 				"tags": ["life","blogging"]
