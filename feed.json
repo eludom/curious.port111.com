@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://eludom.micro.blog/2026/08/14/i-did-the-fateful-thing.html",
+				
+				"content_html": "<p>I did the fateful thing.  I updated all my #emacs packages after not touching them for 5 months.    Now I&rsquo;m recompiling emacs from the latest sources to try to make mysterious new errors go away.   You pull one thread&hellip;</p>\n",
+				"content_text": "I did the fateful thing.  I updated all my #emacs packages after not touching them for 5 months.    Now I'm recompiling emacs from the latest sources to try to make mysterious new errors go away.   You pull one thread...\n",
+				"date_published": "2026-08-14T17:23:51-04:00",
+				"url": "https://curious.port111.com/2026/08/14/i-did-the-fateful-thing.html",
+				"tags": ["emacs"]
+			},
+			{
 				"id": "http://eludom.micro.blog/2026/08/10/different-outlooks.html",
 				"title": "Different outlooks",
 				"content_html": "<p>The web page for the <a href=\"https://stingynomads.com/camino-portugues-stages/\">Portugese Camno</a> says &quot; Every year more and more people choose the Portuguese Camino.&quot;</p>\n<p>I guess if you&rsquo;re the person setting up a web page for a tourist destination you take it as a axiom that &ldquo;more is better&rdquo;.   I my case that&rsquo;s a red flag that says &ldquo;crowded, stay away&rdquo;.   Know your audience?</p>\n",
