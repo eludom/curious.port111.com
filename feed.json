@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://eludom.micro.blog/2026/08/20/i-poked-my-head-into.html",
+				
+				"content_html": "<p>I poked my head into substack again.  It shows me things I think are interesting, but it&rsquo;s back in algorithm land begging for attention.</p>\n<p>Probably not.</p>\n",
+				"content_text": "I poked my head into substack again.  It shows me things I think are interesting, but it's back in algorithm land begging for attention.  \n\nProbably not.\n",
+				"date_published": "2026-08-20T19:08:26-04:00",
+				"url": "https://curious.port111.com/2026/08/20/i-poked-my-head-into.html"
+			},
+			{
 				"id": "http://eludom.micro.blog/2026/08/14/i-did-the-fateful-thing.html",
 				
 				"content_html": "<p>I did the fateful thing.  I updated all my #emacs packages after not touching them for 5 months.    Now I&rsquo;m recompiling emacs from the latest sources to try to make mysterious new errors go away.   You pull one thread&hellip;</p>\n",
