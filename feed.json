@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://eludom.micro.blog/2026/09/11/september-happy-memories-a-day.html",
+				
+				"content_html": "<p>September 11.   Happy memories.  <a href=\"https://www.facebook.com/Davenportsportsnetwork/videos/%EF%B8%8Fon-september-11-1985-in-front-of-a-sellout-crowd-of-47237-at-riverfront-stadium/1041680798918978/\">4192</a>.  &ldquo;A day that will live in famy&rdquo;.  ⚾️</p>\n",
+				"content_text": "September 11.   Happy memories.  [4192](https://www.facebook.com/Davenportsportsnetwork/videos/%EF%B8%8Fon-september-11-1985-in-front-of-a-sellout-crowd-of-47237-at-riverfront-stadium/1041680798918978/).  \"A day that will live in famy\".  ⚾️\n",
+				"date_published": "2026-09-11T07:58:35-04:00",
+				"url": "https://curious.port111.com/2026/09/11/september-happy-memories-a-day.html"
+			},
+			{
+				"id": "http://eludom.micro.blog/2026/09/10/using-science-in-cybersecurity.html",
+				"title": "Using Science in Cybersecurity",
+				"content_html": "<p>Critial open source projects, like Linux, will be unable to track/respond to knonw (and likely, many more unknow) exploints in real time.    A book by two of  of my former CERT co-workers pointed out that CVEs/vuln declosers were just a known sampling of a much larger unknown pouplation and that in that world the only rational way to respond is to treat seucrutiy vulnerablities as a statistics problem.  Time for new approaches.  Ahead of the curve again, see <a href=\"https://www.worldscientific.com/worldscibooks/10.1142/12247#t=aboutBook\">Using Science in Cybersecurity</a></p>\n",
+				"content_text": "Critial open source projects, like Linux, will be unable to track/respond to knonw (and likely, many more unknow) exploints in real time.    A book by two of  of my former CERT co-workers pointed out that CVEs/vuln declosers were just a known sampling of a much larger unknown pouplation and that in that world the only rational way to respond is to treat seucrutiy vulnerablities as a statistics problem.  Time for new approaches.  Ahead of the curve again, see [Using Science in Cybersecurity](https://www.worldscientific.com/worldscibooks/10.1142/12247#t=aboutBook)\n",
+				"date_published": "2026-09-10T08:37:39-04:00",
+				"url": "https://curious.port111.com/2026/09/10/using-science-in-cybersecurity.html"
+			},
+			{
 				"id": "http://eludom.micro.blog/2026/09/10/security-exploits-too-cheap-to.html",
 				"title": "Security Exploits Too Cheap To Meter?",
 				"content_html": "<p>Now we&rsquo;ve crossed a real threshold.   It may be time to unplug the Internet.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html\">www.schneier.com/blog/arch&hellip;</a></p>\n<p><a href=\"https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/\">simonwillison.net/2026/Aug/&hellip;</a></p>\n",
